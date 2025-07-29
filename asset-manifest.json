@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/gokul-portfolio/static/css/main.ae075e5f.css",
+    "main.css": "/gokul-portfolio/static/css/main.e8b8a171.css",
     "main.js": "/gokul-portfolio/static/js/main.818a4886.js",
     "static/js/453.c344d5f5.chunk.js": "/gokul-portfolio/static/js/453.c344d5f5.chunk.js",
     "index.html": "/gokul-portfolio/index.html",
-    "main.ae075e5f.css.map": "/gokul-portfolio/static/css/main.ae075e5f.css.map",
+    "main.e8b8a171.css.map": "/gokul-portfolio/static/css/main.e8b8a171.css.map",
     "main.818a4886.js.map": "/gokul-portfolio/static/js/main.818a4886.js.map",
     "453.c344d5f5.chunk.js.map": "/gokul-portfolio/static/js/453.c344d5f5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ae075e5f.css",
+    "static/css/main.e8b8a171.css",
     "static/js/main.818a4886.js"
   ]
 }
